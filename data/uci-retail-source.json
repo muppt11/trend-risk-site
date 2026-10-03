@@ -1,0 +1,15 @@
+{
+  "title": "UCI Online Retail \u2014 daily gross recorded sales",
+  "author": "Daqing Chen (2015)",
+  "source": "https://doi.org/10.24432/C5BW33",
+  "license": "CC BY 4.0",
+  "stockCode": "85123A",
+  "description": "WHITE HANGING HEART T-LIGHT HOLDER",
+  "start": "2011-09-01",
+  "end": "2011-11-30",
+  "matchedTransactions": 600,
+  "totalUnits": 9077,
+  "archiveSha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+  "transformation": "Daily sum across countries of positive quantities with positive sale price, excluding cancellation invoices. Days without qualifying recorded transactions are zero. No customer identifiers retained.",
+  "limitations": "Historical gift retail, not fashion or current demand. Gross recorded sales, not net demand; returns excluded. Zero does not prove availability. Supplier lead time, MOQ, inventory at arrival and unit inventory cost are absent."
+}
